@@ -1,0 +1,18 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background: #eef2f9;
+  color: #1f2a44;
+}
+
+a {
+  color: inherit;
+}
